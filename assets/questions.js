@@ -1,3 +1,4 @@
+// these are my Q&A's
 var question = [{
   "question": "What do you get when you mix green and blue?", 
   "options1":"Orange",
